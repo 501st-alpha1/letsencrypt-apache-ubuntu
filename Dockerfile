@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM 501stalpha1/ubuntu:trusty
 MAINTAINER Kevin Krummenauer <kevin@whiledo.de>
 
 WORKDIR /data
